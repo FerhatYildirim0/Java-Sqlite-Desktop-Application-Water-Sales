@@ -3,7 +3,7 @@
 
 ## Kullanılan Diller ve Yetenekler
 
-| Dil / Yetenek|   | % |
+| Dil / Yetenek|:arrow_right:   | % |
 | ------------- |:-------------:|:-------------:|
 | JAVA       | ➡️   | 90 |
 | JFRAME     | ➡️ | 80 |
