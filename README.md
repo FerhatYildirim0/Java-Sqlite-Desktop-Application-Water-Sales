@@ -1,7 +1,5 @@
 # Java Sqlite Desktop Application Water Sales
 
-Uygulama Açıklaması
-Uygulama Açıklaması 
 
 ## Kullanılan Diller ve Yetenekler
 
@@ -10,6 +8,19 @@ Uygulama Açıklaması
 | JAVA       | ➡️   | 90 |
 | JFRAME     | ➡️ | 80 |
 | SQLITE      | ➡️ | 60 |
+
+## Uygulama Açıklaması
+    
+Bu uygulama, bir su satış firmasının müşterilerinin kayıtlarını, siparişlerini ve siparişlerinin durumlarını 
+takip edebilebilmesini sağlar.
+ 
+İlk görselde (Ana Ekran) müşteri adı ve soyadına göre arama yapılabilir. Müşteri sisteme kayıt edilebilir, 
+sistemden bilgileri silinebilir ve düzenlenebilir. Müşteri sisteme kayıt olurken ikinci görsel, düzenleme 
+yapılırken üçüncü ve sipariş verilirken dördüncü görsel ortaya çıkmaktadır.
+
+Ana Ekran'ın sağ kısmında ise sipariş yönetim bölümü bulunmaktadır. Siparişler seçildikten sonra en üstteki 
+çarpı sembolü bulunan buton ile silinebilir. Yine sipariş seçildikten sonra sipariş durumu değiştirilebilir.
+Yenile butonu ile teslim edilen siparişler ekrandan kaldırılabilir.
 
 ## Uygulama Görselleri
 
