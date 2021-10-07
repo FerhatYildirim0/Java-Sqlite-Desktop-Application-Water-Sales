@@ -3,8 +3,16 @@
 Uygulama Açıklaması
 Uygulama Açıklaması 
 
+## Kullanılan Diller ve Yetenekler
+
+| Dil / Yetenek|   | % |
+| ------------- |:-------------:|:-------------:|
+| JAVA       | ➡️   | 90 |
+| JFRAME     | ➡️ | 80 |
+| SQLITE      | ➡️ | 60 |
+
 ## Uygulama Görselleri
-https://github.com/FerhatYildirim0/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/Images/Ana%20Ekran.png
+
 <p>
 <a href="https://github.com/FerhatYildirim0/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/Images/Ana%20Ekran.png" target="_blank">
 <img src="https://github.com/FerhatYildirim0/Java-Sqllite-Desktop-Application-Water-Sales/blob/main/Images/Ana%20Ekran.png" width="1200" style="max-width:100%;"></a>
